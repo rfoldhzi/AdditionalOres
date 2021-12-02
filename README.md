@@ -1,7 +1,7 @@
 # AdditionalOres
 A minecraft mod for 1.16 that adds additional ores into the game, and corresponding armor sets, ingots, and tools.
 
-![Alt text](screenshots/screenshot_1.PNG?raw=true "Screenshot")
+![Screenshot](screenshots/screenshot_1.png?raw=true "Screenshot")
 
 This was my first mod I made, so much of it is experimental. You'll find a wide variety of items, blocks, mobs, echantments, armor, tools, and much more. Featured content includes:
 
