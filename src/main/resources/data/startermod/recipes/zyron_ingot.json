@@ -1,0 +1,8 @@
+{
+	"type":"minecraft:smelting",
+	
+	"ingredient":{"item":"startermod:raw_zyron"},
+	
+	"result": {"item":"startermod:zyron_ingot"},
+	"experience":1
+}

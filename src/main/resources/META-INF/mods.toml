@@ -1,0 +1,35 @@
+modLoader="javafml" #mandatory
+loaderVersion="[35,)" 
+license="All rights reserved"
+[[mods]] #mandatory
+
+modId="startermod" #mandatory
+version="0.2" #mandatory
+displayName="The Starter Mod" #mandatory
+#displayURL="https://www.curseforge.com/minecraft/modpacks/rlcraft"
+#updateJSONURL="https://account.microsoft.com/rewards/community/"
+logoFile="examplemod.png" #optional
+
+credits="Thanks for this example mod goes to Java. Thanks Harry Talks" #optional
+authors="RjFx3 (myself)" #optional
+
+description='''
+This is my mod
+
+It's my first
+
+'''
+
+[[dependencies.startermod]]
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[35,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.startermod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4,1.17)"
+    ordering="NONE"
+    side="BOTH"

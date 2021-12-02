@@ -1,0 +1,16 @@
+{
+	"type":"minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"TTT",
+		"TTT",
+		"TTT"
+	],
+	"key":
+	{
+		"T":{"item":"startermod:raw_tin"}
+	},
+	
+	"result": {"item":"startermod:raw_tin_block"}
+}

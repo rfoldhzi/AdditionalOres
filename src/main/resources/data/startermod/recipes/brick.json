@@ -1,0 +1,16 @@
+{
+	"type":"minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"S",
+		"S",
+		"S"
+	],
+	"key":
+	{
+		"S":{"item":"startermod:starter_item"}
+	},
+	
+	"result": {"item":"minecraft:brick","count": 2}
+}

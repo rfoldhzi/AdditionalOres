@@ -1,0 +1,13 @@
+{
+  "generator": {
+    "type": "minecraft:noise",
+    "biome_source": {
+      "type": "minecraft:checkerboard",
+      "biomes": ["startermod:mining","startermod:mining2"],
+	  "scale":3
+    },
+    "seed": 0,
+    "settings": "startermod:mining"
+  },
+  "type": "startermod:mining"
+}

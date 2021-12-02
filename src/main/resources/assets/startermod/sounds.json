@@ -1,0 +1,9 @@
+{
+	"glow_sheep.ambient" : {
+		"category" : "neutral",
+		"sounds" : [
+			"startermod:glow_sheep/ambient"
+		],
+		"subtitle" : "subtitles.startermod.glow_sheep.ambient"
+	}
+}

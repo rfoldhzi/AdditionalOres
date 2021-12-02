@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "startermod:item/zyron_chestplate"
+  },
+	"overrides": [
+        {
+            "predicate": {
+                "damaged": 1
+            },
+            "model": "startermod:item/bronze_chestplate"
+        }
+    ]
+}

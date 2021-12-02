@@ -1,0 +1,10 @@
+{
+	"type":"minecraft:crafting_shapeless",
+	
+	"ingredients":[
+		{"item":"startermod:burning_leather"},
+		{"item":"minecraft:stick"}
+	],
+	
+	"result": {"item":"minecraft:blaze_rod"}
+}

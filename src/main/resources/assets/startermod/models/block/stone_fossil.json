@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "up": "startermod:block/stone_fossil_head",
+	"sides": "startermod:block/stone_fossil_side",
+	"down": "startermod:block/stone_fossil_end"
+  }
+}

@@ -1,0 +1,17 @@
+{
+	"type":"minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"Z",
+		"S",
+		"S"
+	],
+	"key":
+	{
+		"S":{"item":"minecraft:stick"},
+		"Z":{"item":"startermod:steel_ingot"}
+	},
+	
+	"result": {"item":"startermod:steel_shovel"}
+}

@@ -1,0 +1,16 @@
+{
+	"type":"minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"ZZZ",
+		"ZZZ",
+		"ZZZ"
+	],
+	"key":
+	{
+		"Z":{"item":"startermod:raw_zyron"}
+	},
+	
+	"result": {"item":"startermod:raw_zyron_block"}
+}

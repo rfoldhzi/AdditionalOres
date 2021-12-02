@@ -1,0 +1,9 @@
+{
+	"type":"minecraft:crafting_shapeless",
+	
+	"ingredients":[
+		{"item":"startermod:raw_gold_block"}
+	],
+	
+	"result": {"item":"startermod:raw_gold","count": 9}
+}

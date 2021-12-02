@@ -1,0 +1,16 @@
+{
+	"type":"minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"CCC",
+		"CCC",
+		"CCC"
+	],
+	"key":
+	{
+		"C":{"item":"startermod:raw_copper"}
+	},
+	
+	"result": {"item":"startermod:raw_copper_block"}
+}

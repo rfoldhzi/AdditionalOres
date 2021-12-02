@@ -1,0 +1,15 @@
+{
+	"type":"minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"T T",
+		" T "
+	],
+	"key":
+	{
+		"T":{"item":"startermod:tin_ingot"}
+	},
+	
+	"result": {"item":"minecraft:bucket"}
+}

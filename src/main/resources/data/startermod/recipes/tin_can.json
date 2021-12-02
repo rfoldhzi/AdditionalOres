@@ -1,0 +1,17 @@
+{
+	"type":"minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"I",
+		"F",
+		"I"
+	],
+	"key":
+	{
+		"I":{"item":"startermod:tin_ingot"},
+		"F":{"item":"startermod:tin_foil"}
+	},
+	
+	"result": {"item":"startermod:tin_can","count": 3}
+}

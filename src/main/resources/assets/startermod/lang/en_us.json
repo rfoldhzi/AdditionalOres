@@ -1,0 +1,93 @@
+{
+	"item.startermod.starter_item": "Starter Item",
+	
+	"item.startermod.raw_iron": "Raw Iron",
+	"item.startermod.raw_gold": "Raw Gold",
+	"item.startermod.raw_copper": "Raw Copper",
+	"item.startermod.raw_zyron": "Raw Zyron",
+	"item.startermod.raw_tin": "Raw Tin",
+	
+	"item.startermod.steel_ingot": "Steel Ingot",
+	
+	"item.startermod.steel_shears": "Steel Shears",
+	"item.startermod.steel_axe": "Steel Axe",
+	"item.startermod.steel_hoe": "Steel Hoe",
+	"item.startermod.steel_pickaxe": "Steel Pickaxe",
+	"item.startermod.steel_shovel": "Steel Shovel",
+	"item.startermod.steel_sword": "Steel Sword",
+	
+	"item.startermod.steal_helmet": "Steal Helmet",
+	"item.startermod.steal_chestplate": "Steal Chestplate",
+	"item.startermod.steal_leggings": "Steal Leggings",
+	"item.startermod.steal_boots": "Steal Boots",
+	
+	"item.startermod.copper_ingot": "Copper Ingot",
+	
+	"item.startermod.tin_ingot": "Tin Ingot",
+	"item.startermod.tin_foil": "Tin Foil",
+	"item.startermod.tin_foil_hat": "Tin Foil Hat",
+	
+	"item.startermod.bronze_ingot": "Bronze Ingot",
+	
+	"item.startermod.bronze_axe": "Bronze Axe",
+	"item.startermod.bronze_hoe": "Bronze Hoe",
+	"item.startermod.bronze_pickaxe": "Bronze Pickaxe",
+	"item.startermod.bronze_shovel": "Bronze Shovel",
+	"item.startermod.bronze_sword": "Bronze Sword",
+	
+	"item.startermod.bronze_helmet": "Bronze Helmet",
+	"item.startermod.bronze_chestplate": "Bronze Chestplate",
+	"item.startermod.bronze_leggings": "Bronze Leggings",
+	"item.startermod.bronze_boots": "Bronze Boots",
+	
+	"item.startermod.bronze_horse_armor": "Bronze Horse Armor",
+	
+	"item.startermod.zyron_ingot": "Zyron Ingot",
+	"item.startermod.zyron_axe": "Zyron Axe",
+	"item.startermod.zyron_hoe": "Zyron Hoe",
+	"item.startermod.zyron_pickaxe": "Zyron Pickaxe",
+	"item.startermod.zyron_shovel": "Zyron Shovel",
+	"item.startermod.zyron_sword": "Zyron Sword",
+	
+	"item.startermod.zyron_helmet": "Zyron Helmet",
+	"item.startermod.zyron_chestplate": "Zyron Chestplate",
+	"item.startermod.zyron_leggings": "Zyron Leggings",
+	"item.startermod.zyron_boots": "Zyron Boots",
+	
+	"item.startermod.spectral_helmet": "Spectral Helmet",
+	"item.startermod.spectral_chestplate": "Spectral Chestplate",
+	"item.startermod.spectral_leggings": "Spectral Leggings",
+	"item.startermod.spectral_boots": "Spectral Boots",
+	
+	"item.startermod.burning_leather": "Burning Leather",
+	
+	"block.startermod.starter_block": "Starter Block",
+	"block.startermod.raw_iron_block": "Block of Raw Iron",
+	"block.startermod.raw_gold_block": "Block of Raw Gold",
+	"block.startermod.raw_copper_block": "Block of Raw Copper",
+	"block.startermod.raw_zyron_block": "Block of Raw Zyron",
+	"block.startermod.raw_tin_block": "Block of Raw Tin",
+	"block.startermod.zyron_ore": "Zyron Ore",
+	"block.startermod.copper_ore": "Copper Ore",
+	"block.startermod.tin_ore": "Tin Ore",
+	"block.startermod.contaminated_dirt": "Contaminated Dirt",
+	"block.startermod.glow_wool": "Glow Wool",
+	
+	"enchantment.startermod.your_enchantment": "Your Enchantment of Epicness",
+	"enchantment.startermod.food_absorbtion": "Food Absorbtion",
+	"enchantment.startermod.lava_walker": "Lava Walker",
+	"enchantment.startermod.ignition": "Ignition",
+	"enchantment.startermod.healing": "Healing",
+	"enchantment.startermod.syphon": "Syphon",
+	"enchantment.startermod.vengence": "Vengence",
+	"enchantment.startermod.spectral_defense": "Spectral Defense",
+	"enchantment.startermod.dispel": "Dispel",
+	
+	"item.minecraft.effect.potion.magic_armor":"Potion of Spectral Armor",
+	"effect.startermod.magic_armor":"Spectral Armor",
+	
+	"item.startermod.starter_kit_basic": "Starter Kit Basic",
+	
+	"advancements.story.smelt_zyron.title": "A Mystical Material",
+	"advancements.story.smelt_zyron.description":"Smelt a zyron ingot"
+}

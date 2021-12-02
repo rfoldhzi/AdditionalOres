@@ -1,0 +1,9 @@
+{
+	"type":"minecraft:crafting_shapeless",
+	
+	"ingredients":[
+		{"item":"startermod:raw_iron_block"}
+	],
+	
+	"result": {"item":"startermod:raw_iron","count": 9}
+}

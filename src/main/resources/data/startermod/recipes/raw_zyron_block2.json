@@ -1,0 +1,9 @@
+{
+	"type":"minecraft:crafting_shapeless",
+	
+	"ingredients":[
+		{"item":"startermod:raw_zyron_block"}
+	],
+	
+	"result": {"item":"startermod:raw_zyron","count": 9}
+}

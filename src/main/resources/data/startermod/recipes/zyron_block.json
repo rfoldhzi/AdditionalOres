@@ -1,0 +1,16 @@
+{
+	"type":"minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"ZZZ",
+		"ZZZ",
+		"ZZZ"
+	],
+	"key":
+	{
+		"Z":{"item":"startermod:zyron_ingot"}
+	},
+	
+	"result": {"item":"startermod:zyron_block"}
+}

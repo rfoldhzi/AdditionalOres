@@ -1,0 +1,9 @@
+{
+	"type":"minecraft:crafting_shapeless",
+	
+	"ingredients":[
+		{"item":"startermod:starter_kit_basic"}
+	],
+	
+	"result": {"item":"startermod:starter_kit_basic"}
+}

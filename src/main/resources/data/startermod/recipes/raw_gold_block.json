@@ -1,0 +1,16 @@
+{
+	"type":"minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"GGG",
+		"GGG",
+		"GGG"
+	],
+	"key":
+	{
+		"G":{"item":"startermod:raw_gold"}
+	},
+	
+	"result": {"item":"startermod:raw_gold_block"}
+}

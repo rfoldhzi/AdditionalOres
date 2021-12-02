@@ -1,0 +1,8 @@
+{
+	"type":"minecraft:smelting",
+	
+	"ingredient":{"item":"startermod:raw_copper"},
+	
+	"result": {"item":"startermod:copper_ingot"},
+	"experience":0.5
+}

@@ -1,0 +1,11 @@
+{
+	"type":"minecraft:crafting_shapeless",
+	
+	"ingredients":[
+		{"item":"startermod:copper_ingot"},
+		{"item":"startermod:copper_ingot"},
+		{"item":"startermod:tin_ingot"}
+	],
+	
+	"result": {"item":"startermod:bronze_ingot","count": 2}
+}

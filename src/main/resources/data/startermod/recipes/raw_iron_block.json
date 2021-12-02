@@ -1,0 +1,16 @@
+{
+	"type":"minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"III",
+		"III",
+		"III"
+	],
+	"key":
+	{
+		"I":{"item":"startermod:raw_iron"}
+	},
+	
+	"result": {"item":"startermod:raw_iron_block"}
+}
